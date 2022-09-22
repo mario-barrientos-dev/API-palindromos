@@ -24,6 +24,6 @@ Lista de tecnologias usadas en el proyecto con su respectiva version
 9. Werkzeug==2.2.2
 10. wincertstore==0.2
 
-### Installatión
+### installation
 
 Para su instalacion se puede realizar con docker
