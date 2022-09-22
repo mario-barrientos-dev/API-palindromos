@@ -6,7 +6,7 @@
 
 ### General Info
 ***
-API-REST elaborada con Flask, para la verificacion de existencia del palindromo mas grande en una oracion, para su uso se debe autenticar e ir a la ruta "/palindromo", para realizar la autenticacion se debe ir a la ruta "/login" y generar un JSON con username :  Mario Barrientos, ademas de ello al momento de hacer las solicitudes de polindromo se debe realizar de la siguiente manera en formato JSON {
+API-REST elaborada con Flask, para la verificacion de existencia del palindromo mas grande en una oracion, para su uso se debe autenticar e ir a la ruta "/palindromo", para realizar la autenticacion se debe ir a la ruta "/login" y generar un JSON con username :  Mario Barrientos, ademas de ello al momento de hacer las solicitudes de palindromo se debe realizar de la siguiente manera en formato JSON {
     "word": "LA PALABRA A CONSULTAR"
 }
 ## Technologies
